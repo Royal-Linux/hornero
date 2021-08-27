@@ -1,0 +1,13 @@
+# Executables files
+test
+test.exe
+
+# Temporary files
+hornero.tmp.c
+fns.txt
+
+!/bin/test
+
+/docs/build
+hornero
+*.bak

@@ -13,13 +13,6 @@
 [Contributing](https://github.com/Royal-Linux/hornero/blob/main/CONTRIBUTING.md)
 
 </div>
-<div align="center">
-
-[![Build Status][workflowbadge]][workflowurl]
-[![Docs Validation][validatedocsbadge]][validatedocsurl]
-[![License: MIT][licensebadge]][licenseurl]
-
-</div>
 
 ## Docs
 
