@@ -6,7 +6,7 @@
         src="https://raw.githubusercontent.com/Royal-Linux/hornero/main/static/hornero-logo.png?sanitize=true"
     >
 </p>
-<h1>System installer for Arch Linux based distros</h1>
+<h1>Hornero Installer</h1>
 
 [Docs](https://Royal-Linux.github.io/hornero) |
 [Changelog](#) |
@@ -14,6 +14,7 @@
 
 </div>
 
+Hornero installer is a system installer for Arch Linux based distros
 ## Docs
 
 Visit [hornero docs](https://Royal-Linux.github.io/hornero) to know more about the supported features.
